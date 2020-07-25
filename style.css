@@ -17,3 +17,30 @@
   width: 100%; /* Full width */
   padding: 5%; /* Some padding */
 }
+
+.giticon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  background: rgba(122, 122, 122, 0.5);
+}
+
+.icona {
+  right: 24px;
+  top: 0px;
+  position: absolute;
+  white-space: nowrap;
+  color: white;
+  background: rgba(122, 122, 122, 0.5);
+}
+
+.icona23 {
+  color: black;
+  background: rgba(122, 122, 122, 0.5);
+}
+
+.card {
+  display: flex;
+  margin: 0;
+  justify-content: space-around;
+}
