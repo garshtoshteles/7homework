@@ -40,6 +40,10 @@
 }
 
 .card {
+  margin: 20px;
+}
+
+.row {
   display: flex;
   margin: 0;
   justify-content: space-around;
